@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff2") format("woff2"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+.fimanager:before {
+    display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.flaticon-001-rocket:before { content: "\f100"; }
+.flaticon-002-astronaut:before { content: "\f101"; }
+.flaticon-003-full-moon:before { content: "\f102"; }
+.flaticon-004-telescope:before { content: "\f103"; }
+.flaticon-005-ufo:before { content: "\f104"; }
+.flaticon-006-satellite:before { content: "\f105"; }
+.flaticon-007-space-car:before { content: "\f106"; }
+.flaticon-008-galaxy:before { content: "\f107"; }
+.flaticon-009-earth:before { content: "\f108"; }
+.flaticon-010-jupiter:before { content: "\f109"; }
+.flaticon-011-asteroid:before { content: "\f10a"; }
+.flaticon-012-mars:before { content: "\f10b"; }
+.flaticon-013-observatory:before { content: "\f10c"; }
+.flaticon-014-neptune:before { content: "\f10d"; }
+.flaticon-015-saturn:before { content: "\f10e"; }
+.flaticon-016-space-station:before { content: "\f10f"; }
+.flaticon-017-astronomy:before { content: "\f110"; }
+.flaticon-018-shooting-star:before { content: "\f111"; }
+.flaticon-019-sun:before { content: "\f112"; }
+.flaticon-020-uranus:before { content: "\f113"; }
+.flaticon-021-venus:before { content: "\f114"; }
+.flaticon-022-eclipse:before { content: "\f115"; }
+.flaticon-023-orbit:before { content: "\f116"; }
+.flaticon-024-constellation:before { content: "\f117"; }
+.flaticon-025-rotation:before { content: "\f118"; }
+.flaticon-026-botanical:before { content: "\f119"; }
+.flaticon-027-mercury:before { content: "\f11a"; }
+.flaticon-028-pluto:before { content: "\f11b"; }
+.flaticon-029-freeze:before { content: "\f11c"; }
+.flaticon-030-planetarium:before { content: "\f11d"; }
+.flaticon-031-space-station:before { content: "\f11e"; }
+.flaticon-032-monitor:before { content: "\f11f"; }
+.flaticon-033-hot:before { content: "\f120"; }
+.flaticon-034-spaceship:before { content: "\f121"; }
+.flaticon-035-flag:before { content: "\f122"; }
+.flaticon-036-universe:before { content: "\f123"; }
+.flaticon-037-rover:before { content: "\f124"; }
+.flaticon-038-moon-phase:before { content: "\f125"; }
+.flaticon-039-sputnik:before { content: "\f126"; }
+.flaticon-040-meteor:before { content: "\f127"; }
+.flaticon-041-black-hole:before { content: "\f128"; }
+.flaticon-042-earth:before { content: "\f129"; }
+.flaticon-043-lander:before { content: "\f12a"; }
+.flaticon-044-supernova:before { content: "\f12b"; }
+.flaticon-045-orbit:before { content: "\f12c"; }
+.flaticon-046-solar-system:before { content: "\f12d"; }
+.flaticon-047-astronomy:before { content: "\f12e"; }
+.flaticon-048-constellation:before { content: "\f12f"; }
+.flaticon-049-day-and-night:before { content: "\f130"; }
+.flaticon-050-destroyed-planet:before { content: "\f131"; }
+
+$font-Flaticon-001-rocket: "\f100";
+$font-Flaticon-002-astronaut: "\f101";
+$font-Flaticon-003-full-moon: "\f102";
+$font-Flaticon-004-telescope: "\f103";
+$font-Flaticon-005-ufo: "\f104";
+$font-Flaticon-006-satellite: "\f105";
+$font-Flaticon-007-space-car: "\f106";
+$font-Flaticon-008-galaxy: "\f107";
+$font-Flaticon-009-earth: "\f108";
+$font-Flaticon-010-jupiter: "\f109";
+$font-Flaticon-011-asteroid: "\f10a";
+$font-Flaticon-012-mars: "\f10b";
+$font-Flaticon-013-observatory: "\f10c";
+$font-Flaticon-014-neptune: "\f10d";
+$font-Flaticon-015-saturn: "\f10e";
+$font-Flaticon-016-space-station: "\f10f";
+$font-Flaticon-017-astronomy: "\f110";
+$font-Flaticon-018-shooting-star: "\f111";
+$font-Flaticon-019-sun: "\f112";
+$font-Flaticon-020-uranus: "\f113";
+$font-Flaticon-021-venus: "\f114";
+$font-Flaticon-022-eclipse: "\f115";
+$font-Flaticon-023-orbit: "\f116";
+$font-Flaticon-024-constellation: "\f117";
+$font-Flaticon-025-rotation: "\f118";
+$font-Flaticon-026-botanical: "\f119";
+$font-Flaticon-027-mercury: "\f11a";
+$font-Flaticon-028-pluto: "\f11b";
+$font-Flaticon-029-freeze: "\f11c";
+$font-Flaticon-030-planetarium: "\f11d";
+$font-Flaticon-031-space-station: "\f11e";
+$font-Flaticon-032-monitor: "\f11f";
+$font-Flaticon-033-hot: "\f120";
+$font-Flaticon-034-spaceship: "\f121";
+$font-Flaticon-035-flag: "\f122";
+$font-Flaticon-036-universe: "\f123";
+$font-Flaticon-037-rover: "\f124";
+$font-Flaticon-038-moon-phase: "\f125";
+$font-Flaticon-039-sputnik: "\f126";
+$font-Flaticon-040-meteor: "\f127";
+$font-Flaticon-041-black-hole: "\f128";
+$font-Flaticon-042-earth: "\f129";
+$font-Flaticon-043-lander: "\f12a";
+$font-Flaticon-044-supernova: "\f12b";
+$font-Flaticon-045-orbit: "\f12c";
+$font-Flaticon-046-solar-system: "\f12d";
+$font-Flaticon-047-astronomy: "\f12e";
+$font-Flaticon-048-constellation: "\f12f";
+$font-Flaticon-049-day-and-night: "\f130";
+$font-Flaticon-050-destroyed-planet: "\f131";
